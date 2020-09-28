@@ -7,7 +7,7 @@ This script was made to find counter examples of Euler's conjecture on sums of l
 * A: 399, B: 330, C: 252, D: 81, E: 432
 * A: 532, B: 440, C: 336, D: 108, E: 576   
 All examples are stored [here](https://github.com/Kirill-iceland/counter_examples/blob/master/data/pow5.json)  
-How many numbrers of As have been checked are stored [here](https://github.com/Kirill-iceland/counter_examples/blob/master/data/info_pow5.json)
+How many numbrers have been checked are stored [here](https://github.com/Kirill-iceland/counter_examples/blob/master/data/info_pow5.json)
 ## Proof that there is infinite amound of examples:
 ### Theory:
 If there are `A, B, C, D, E ∈ ℤ+` that satisfy `Aᵐ + Bᵐ + Cᵐ + Dᵐ = Eᵐ` then there are `(nA)ᵐ + (nB)ᵐ + (nC)ᵐ + (nD)ᵐ = (nE)ᵐ, n ∈ ℤ+`. 
