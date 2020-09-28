@@ -10,11 +10,11 @@ All examples are stored [here](https://github.com/Kirill-iceland/counter_example
 How many numbrers of As have been checked are stored [here](https://github.com/Kirill-iceland/counter_examples/blob/master/data/info_pow5.json)
 ## Proof that there is infinite amound of examples:
 ### Theory:
-If there are `A, B, C, D, E ∈ ℤ+` that satisfy `A⁵ + B⁵ + C⁵ + D⁵ = E⁵` then there are `(nA)⁵ + (nB)⁵ + (nC)⁵ + (nD)⁵ = (nE)⁵, n ∈ ℤ+`. 
+If there are `A, B, C, D, E ∈ ℤ+` that satisfy `Aᵐ + Bᵐ + Cᵐ + Dᵐ = Eᵐ` then there are `(nA)ᵐ + (nB)ᵐ + (nC)ᵐ + (nD)ᵐ = (nE)ᵐ, n ∈ ℤ+`. 
 Because there is infenetly many **n** there are infenetly many examples.
 ### Proof:
 ```
-(nA)⁵ + (nB)⁵ + (nC)⁵ + (nD)⁵ = (nE)⁵ => n⁵A⁵ + n⁵B⁵ + n⁵C⁵ + n⁵D⁵ = n⁵E⁵   
-                                      => n⁵(A⁵ + B⁵ + C⁵ + D⁵) = n⁵E⁵  
-                                      => A⁵ + B⁵ + C⁵ + D⁵ = E⁵  
+(nA)ᵐ + (nB)ᵐ + (nC)ᵐ + (nD)ᵐ = (nE)ᵐ => nᵐAᵐ + nᵐBᵐ + nᵐCᵐ + nᵐDᵐ = nᵐEᵐ   
+                                      => nᵐ(Aᵐ + Bᵐ + Cᵐ + Dᵐ) = nᵐEᵐ  
+                                      => Aᵐ + Bᵐ + Cᵐ + Dᵐ = Eᵐ  
 ```
