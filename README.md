@@ -15,7 +15,7 @@ If there are `A, B, C, D, E ∈ ℤ+` that satisfy `Aᵐ + Bᵐ + Cᵐ + Dᵐ = 
 Because there is infenetly many **n** there are infenetly many examples.
 ### Proof:
 ```
-(nA)ᵐ + (nB)ᵐ + (nC)ᵐ + (nD)ᵐ = (nE)ᵐ => nᵐAᵐ + nᵐBᵐ + nᵐCᵐ + nᵐDᵐ = nᵐEᵐ   
-                                      => nᵐ(Aᵐ + Bᵐ + Cᵐ + Dᵐ) = nᵐEᵐ  
-                                      => Aᵐ + Bᵐ + Cᵐ + Dᵐ = Eᵐ  
+(nX₁)ᵐ + (nX₂)ᵐ + ... + (nXₖ)ᵐ = (Y)ᵐ => nᵐX₁ᵐ + nᵐX₂ᵐ + ... + nᵐXₖᵐ = nᵐYᵐ   
+                                      => nᵐ(X₁ᵐ + X₂ᵐ + ... + Xₖᵐ) = nᵐYᵐ  
+                                      => X₁ᵐ + X₂ᵐ + ... + Xₖᵐ = Yᵐ  
 ```
