@@ -6,7 +6,7 @@ var B = JSON.parse(fs.readFileSync("data/info_pow5.json")).B;
 var C = JSON.parse(fs.readFileSync("data/info_pow5.json")).C;
 var D = JSON.parse(fs.readFileSync("data/info_pow5.json")).D;
 var number_checked = JSON.parse(fs.readFileSync("data/info_pow5.json")).number_checked;
-const saverate = 10000;
+const saverate = 100000000;
 var E;
 var arr = JSON.parse(fs.readFileSync("data/pow5.json"));
 console.log(pow)
