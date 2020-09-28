@@ -11,13 +11,3 @@ This script was made to find counter examples of Euler's conjecture on sums of l
 * A: 665, B: 550, C: 420, D: 135, E: 720   
 All examples are stored [here](https://github.com/Kirill-iceland/counter_examples/blob/master/data/pow5.json)  
 How many numbrers have been checked are stored [here](https://github.com/Kirill-iceland/counter_examples/blob/master/data/info_pow5.json)
-## Proof that there is infinite amound of examples:
-### Theory:
-If there are `A, B, C, D, E ∈ ℤ+` that satisfy `Aᵐ + Bᵐ + Cᵐ + Dᵐ = Eᵐ` then there are `(nA)ᵐ + (nB)ᵐ + (nC)ᵐ + (nD)ᵐ = (nE)ᵐ, n ∈ ℤ+`. 
-Because there is infenetly many **n** there are infenetly many examples.
-### Proof:
-```
-(nX₁)ᵐ + (nX₂)ᵐ + ... + (nXₖ)ᵐ = (Y)ᵐ => nᵐX₁ᵐ + nᵐX₂ᵐ + ... + nᵐXₖᵐ = nᵐYᵐ   
-                                      => nᵐ(X₁ᵐ + X₂ᵐ + ... + Xₖᵐ) = nᵐYᵐ  
-                                      => X₁ᵐ + X₂ᵐ + ... + Xₖᵐ = Yᵐ  
-```
