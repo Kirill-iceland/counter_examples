@@ -13,6 +13,7 @@ This script was made to find counter examples of Euler's conjecture on sums of l
 * A: 665, B: 550, C: 420, D: 135, E: 720
 * A: 798, B: 660, C: 504, D: 162, E: 864
 * A: 931, B: 770, C: 588, D: 189, E: 1.008
-* A: 1.064, B: 880, C: 672, D: 216, E: 1.152     
+* A: 1.064, B: 880, C: 672, D: 216, E: 1.152
+* A: 1.197, B: 990, C: 756, D: 243, E: 1.296   
 All examples are stored [here](https://github.com/Kirill-iceland/counter_examples/blob/master/data/pow5.json)  
 How many numbrers have been checked are stored [here](https://github.com/Kirill-iceland/counter_examples/blob/master/data/info_pow5.json)
